@@ -4,7 +4,7 @@
     "type": "lib",
     "license": "MIT",
     "minimum-stability": "dev",
-    "require": {}
+    "require": {},
     "autoload": {
         "psr-4": {
             "sgx\\permission\\": "src"
