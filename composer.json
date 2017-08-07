@@ -1,0 +1,13 @@
+{
+    "name": "sgx/permission",
+    "description": "Create or check hash value and check permission",
+    "type": "lib",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {}
+    "autoload": {
+        "psr-4": {
+            "sgx\\permission\\": "src"
+        }
+    }
+}
